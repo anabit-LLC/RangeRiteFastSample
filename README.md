@@ -18,5 +18,5 @@ From Texas Instruments ADS868x 16 bit ADC IC family or the ADS869x 18 bit ADC IC
 
 Please report any issue with the sketch to the Anabit forum: https://anabit.co/community/forum/analog-to-digital-converters-adcs
 
-Example code developed by Your Anabit LLC © 2025
+Example code developed by Anabit LLC © 2025
 Licensed under the Apache License, Version 2.0.
