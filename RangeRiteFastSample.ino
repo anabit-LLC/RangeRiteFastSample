@@ -11,7 +11,7 @@ using, the SPI clock rate of the Arduino board you are using, and how fast it ca
 Be sure to look at the initial settings for this sketch including SPI chip select pin, RangeRite resolutio
 (16 or 18), voltage range, and if you want to use the reset pin
 
-Product link: 
+Product link: https://anabit.co/products/rangerite-18-bit-adc
 
 This example sketch demonstrates how to set the input voltage range and make a set of continous ADC reading
 From Texas Instruments ADS868x 16 bit ADC IC family or the ADS869x 18 bit ADC IC family.
